@@ -1,7 +1,9 @@
 # EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
 
-NAME: Pragaharshitha NC
-REF NO:212222110033
+# NAME: Pragaharshitha NC
+
+# REF NO:212222110033
+
 ## Aim: 
 
 To  configure  Dragino LPS8 Indoor LoRaWAN gateway for things  network .
